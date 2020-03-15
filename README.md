@@ -1,2 +1,2 @@
 # Unity-
-hi majd is stupid
+hi majd is majd
